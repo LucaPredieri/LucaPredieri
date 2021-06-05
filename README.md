@@ -4,6 +4,7 @@
 - 📫 You can reach me through:
 - - Instagram: @instapreddi
 - - Email: luca.predieri2018@gmail.com
+- - LinkedIn: https://www.linkedin.com/in/lucapredieri/
 
 <!---
 LucaPredieri/LucaPredieri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
