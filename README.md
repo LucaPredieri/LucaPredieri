@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucaPredieri
 - 👀 I’m interested in Arduino, electronics and software engineering. 
-- 🌱 I’m currently studying biomedical engineering at Università degli Studi di Genova in Genova, Italy.
+- 🌱 I’m currently studying biomedical engineering at Università degli Studi di Genova, Italy.
 - 📫 How to reach thought instagram: @instapreddi
 
 <!---
