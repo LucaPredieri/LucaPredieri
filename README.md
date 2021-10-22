@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luca Predieri!
-- 👀 I’m interested in Arduino, electronics and music. 
-- 🌱 I’m currently studying to get my master degree in robotics engineering at Università degli Studi di Genova, Italy.
+- 👀 I’m interested in Arduino, electronics and music.
+- 🌱 I’m currently studying to get my master degree in robotics engineering at Università degli Studi di Genova, Italy. I graduated at Genoa in biomedical engineering with a thesis regarding the development of a videogame which aims to discover cognitive problems in old patients.
 - 📫 You can reach me through:
 - - Instagram: @instapreddi
 - - Email: luca.predieri2018@gmail.com
