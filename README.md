@@ -8,6 +8,7 @@
   - Instagram: @instapreddi
   - Email: luca.predieri2018@gmail.com
   - LinkedIn: https://www.linkedin.com/in/lucapredieri/
+  - Tumblr: https://alibiculture.tumblr.com
   
 (In case you're asking yourself, yes I took the photos at the beginning!)
 
