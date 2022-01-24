@@ -5,7 +5,6 @@
 - :earth_americas: I’m currently studying to get my master degree in robotics engineering at Università degli Studi di Genova, Italy. I graduated at Genoa in biomedical engineering with a thesis regarding the development of a videogame which aims to discover cognitive problems in old patients.
 
 - :satellite: You can reach me through:
-  - Instagram: @instapreddi
   - Email: luca.predieri2018@gmail.com
   - LinkedIn: https://www.linkedin.com/in/lucapredieri/
   - Tumblr: https://alibiculture.tumblr.com
