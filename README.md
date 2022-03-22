@@ -15,6 +15,11 @@ So, please, if you need help or my code, contact me!
 
 📷  In case you're asking yourself, yes I took the photos at the beginning!
 
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaPredieri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    
+</div>
 
 <!---
 LucaPredieri/LucaPredieri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
