@@ -9,10 +9,6 @@
   - LinkedIn: https://www.linkedin.com/in/lucapredieri/
   - Tumblr: https://alibiculture.tumblr.com
 
-Hey! In the last months I saw that some people used and published my code as their work! 
-GitHub.com is for sure an open source platform where everybody can inspire to! Anyway, if you're republishing my work as yours I would be glad either to take credits either to be asked to use it. As you can see in this article, [The Legal Side of Open Source](https://opensource.guide/legal/) it is not so legal to copy and reuse the code of someone else, even if the repo is public. <br />
-So, please, if you need help or my code, contact me!
-
 📷  In case you're asking yourself, yes I took the photos at the beginning!
 
 <div align="center">
