@@ -10,12 +10,10 @@
   - Instagram: https://www.instagram.com/instapreddi/ (not using it that much)
   - Tumblr: https://alibiculture.tumblr.com
 
-📷  In case you're asking yourself, yes I took the photos at the beginning!
-
 <div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaPredieri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-    
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaPredieri&show_icons=true&theme=tokyonight)
+
 </div>
 
 <!---
