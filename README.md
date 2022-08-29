@@ -7,7 +7,7 @@
 - :satellite:  You can reach me through:
   - Email: luca.predieri2018@gmail.com
   - LinkedIn: https://www.linkedin.com/in/lucapredieri/
-  - Instagram: https://www.instagram.com/instapreddi/ (not using it that much)
+  - Instagram: https://www.instagram.com/lucapreddi/ (not using it that much)
   - Tumblr: https://alibiculture.tumblr.com
 
 <div align="center">
