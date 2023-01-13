@@ -10,12 +10,6 @@
   - Instagram: https://www.instagram.com/lucapreddi/ (not using it that much)
   - Tumblr: https://alibiculture.tumblr.com
 
-<div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaPredieri&show_icons=true&theme=tokyonight)
-
-</div>
-
 <!---
 LucaPredieri/LucaPredieri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
